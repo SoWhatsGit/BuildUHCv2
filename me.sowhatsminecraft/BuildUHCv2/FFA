@@ -1,0 +1,12 @@
+import org.bukkit.plugin.java.javaplugin
+
+
+public class FFA extends JavaPlugin {
+
+  @Override
+  public void onEnable(){
+  
+  }
+
+
+}
